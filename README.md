@@ -11,6 +11,10 @@
 ## Prerequisites
 - python
 
+## Dev-Prerequisites
+- username is admin
+- password is Cool123
+
 # Future Updates
 - Use of nested dictionaries.
 - Completion of teacher management
